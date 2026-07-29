@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner.png" alt="Didier Lobognon Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Didier Lobognon</h1>
 
 <h3 align="center">
