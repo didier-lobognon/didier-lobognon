@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
- contents: write
+  contents: write
 
 jobs:
   build:
@@ -15,7 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Ashutosh00710/github-readme-activity-graph@main
+      - uses: Ashutosh00710/github-readme-activity-graph@v1.8.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           username: didier-lobognon
           theme: github-dark
+          output_dir: output
