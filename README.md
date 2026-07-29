@@ -9,25 +9,31 @@ Full Stack Software Engineer | 3+ Years of Experience
 </h3>
 
 <p align="center">
-Building scalable, secure and high-performance web applications 🚀
+Building scalable, secure and modern web applications 🚀
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;React+•+Angular+•+Vue.js;NestJS+•+Laravel+•+Python;Backend+Architecture+%26+Microservices;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Java+%7C+Spring+Boot;NestJS+%7C+Laravel+%7C+Python;React+%7C+Angular+%7C+Vue.js;Backend+Architecture;Microservices;Always+Learning+New+Technologies" />
+
 </p>
+
+---
+
+## 🌍 Connect with me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ld-didier">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:didier.dogo@epitech.eu">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/didier-lobognon">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -36,18 +42,19 @@ Building scalable, secure and high-performance web applications 🚀
 
 # 👨‍💻 About Me
 
-I'm a **Full Stack Software Engineer** with **3+ years of experience** building modern web applications.
+I'm a **Full Stack Software Engineer** with **3+ years of experience** building scalable enterprise applications.
 
-I enjoy designing scalable architectures, developing secure REST APIs and creating intuitive user experiences.
+I specialize in backend development with **Java, Spring Boot, NestJS, Laravel and Python**, while also creating modern front-end interfaces using **React, Angular and Vue.js**.
 
-I have worked on **FinTech platforms, ERP systems, e-commerce solutions, dashboards and educational platforms** using modern technologies.
+I enjoy designing secure APIs, scalable architectures and delivering high-performance software.
 
-- 🚀 3+ Years of Experience
-- 💼 Full Stack Software Engineer
-- 🌍 Based in Abidjan, Côte d'Ivoire
-- 🏗 Passionate about Clean Architecture & Microservices
-- 📚 Always learning new technologies
-- 🎯 Looking for challenging Full Stack opportunities
+- 🚀 3+ Years Experience
+- ☕ Java & Spring Boot Developer
+- ⚡ NestJS & Node.js Developer
+- 💻 React / Angular / Vue.js
+- 🐳 Docker & Microservices
+- 🌍 Abidjan, Côte d'Ivoire
+- 📚 Always learning
 
 ---
 
@@ -55,53 +62,51 @@ I have worked on **FinTech platforms, ERP systems, e-commerce solutions, dashboa
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,nodejs,nestjs,laravel,php,python,fastapi,flask,spring,docker,postgres,mysql,mongodb,firebase,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,angular,vue,nextjs,nodejs,nestjs,laravel,php,python,fastapi,flask,docker,postgres,mysql,mongodb,firebase,git,github,linux,vscode"/>
 
 </p>
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
 ## 💳 MasaFinance
 
-A modern FinTech platform based on a Microservices architecture featuring secure authentication, KYC verification, transaction management and an administration dashboard.
+FinTech platform built with Microservices Architecture.
 
 ---
 
 ## 🐣 CouvoirBAF ERP
 
-Enterprise Resource Planning platform designed to manage hatchery operations, production workflows and business processes.
+ERP solution for poultry hatchery management.
 
 ---
 
 ## 📚 ClasseSTEM
 
-Educational platform focused on STEM learning, online courses, quizzes and digital education management.
+Educational platform dedicated to STEM learning.
 
 ---
 
 ## 🛒 My Shop
 
-Modern e-commerce platform with authentication, product management, shopping cart and secure checkout.
+Modern e-commerce platform.
 
 ---
 
 ## 📊 Dashboard WSC
 
-Interactive dashboard allowing users to personalize widgets and connect multiple digital services from a single interface.
+Interactive dashboard with customizable widgets.
 
 ---
 
-# 📊 GitHub Analytics
-
-<!-- GitHub Stats -->
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=didier-lobognon&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=didier-lobognon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didier-lobognon&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didier-lobognon&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -117,7 +122,7 @@ Interactive dashboard allowing users to personalize widgets and connect multiple
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -127,29 +132,11 @@ Interactive dashboard allowing users to personalize widgets and connect multiple
 
 ---
 
-# 🏅 Skills
+# 🛠 Skills
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
-
-<img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js"/>
-
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs"/>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,angular,vue,nextjs,nodejs,nestjs,laravel,php,python,fastapi,flask,docker,postgres,mysql,mongodb,firebase,git,linux"/>
 
 </p>
 
@@ -162,6 +149,7 @@ Interactive dashboard allowing users to personalize widgets and connect multiple
 🌍 **Abidjan, Côte d'Ivoire**
 
 💼 **LinkedIn**
-> https://www.linkedin.com/in/ld-didier
 
-⭐ Thanks for visiting my profile!
+https://www.linkedin.com/in/ld-didier
+
+⭐ Thanks for visiting my GitHub Profile!
