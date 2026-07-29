@@ -1,0 +1,21 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+ contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Ashutosh00710/github-readme-activity-graph@main
+        with:
+          username: didier-lobognon
+          theme: github-dark
