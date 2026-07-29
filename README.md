@@ -122,28 +122,6 @@ A customizable **Web Dashboard** that enables users to organize widgets, monitor
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=didier-lobognon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didier-lobognon&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=didier-lobognon&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
