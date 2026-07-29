@@ -58,12 +58,6 @@ I enjoy designing secure APIs, scalable architectures and delivering high-perfor
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/didier-lobognon/didier-lobognon/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
 # 🚀 Tech Stack
 
 <p align="center">
@@ -124,6 +118,12 @@ Interactive dashboard with customizable widgets.
 
 <img src="https://streak-stats.demolab.com?user=didier-lobognon&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/didier-lobognon/didier-lobognon/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
