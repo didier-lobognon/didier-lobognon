@@ -70,33 +70,55 @@ I enjoy designing secure APIs, scalable architectures and delivering high-perfor
 
 # 🚀 Featured Projects
 
+---
+
 ## 💳 MasaFinance
 
-FinTech platform built with Microservices Architecture.
+A modern **FinTech platform** built on a **Microservices Architecture**, providing secure financial services, digital transactions, user authentication, KYC verification and role-based dashboards.
+
+**Tech Stack**
+
+`NestJS` • `Vue.js` • `TypeScript` • `PostgreSQL` • `JWT` • `Docker`
 
 ---
 
 ## 🐣 CouvoirBAF ERP
 
-ERP solution for poultry hatchery management.
+An **Enterprise Resource Planning (ERP)** solution developed for poultry hatchery management, covering production monitoring, inventory management, customer orders and operational workflows.
+
+**Tech Stack**
+
+`NestJS` • `TypeScript` • `MySQL` • `JWT` • `Swagger`
 
 ---
 
 ## 📚 ClasseSTEM
 
-Educational platform dedicated to STEM learning.
+An educational platform dedicated to **STEM learning**, allowing students and teachers to access interactive courses, programming resources, quizzes and digital learning materials.
+
+**Tech Stack**
+
+`Angular` • `FastAPI` • `Flask` • `Docker` • `PostgreSQL`
 
 ---
 
 ## 🛒 My Shop
 
-Modern e-commerce platform.
+A modern **E-commerce platform** featuring product management, secure authentication, shopping cart, order management and responsive user experience.
+
+**Tech Stack**
+
+`React` • `NestJS` • `PostgreSQL` • `JWT` • `Docker`
 
 ---
 
 ## 📊 Dashboard WSC
 
-Interactive dashboard with customizable widgets.
+A customizable **Web Dashboard** that enables users to organize widgets, monitor multiple digital services and visualize information through an intuitive interface.
+
+**Tech Stack**
+
+`React` • `Node.js` • `REST API`
 
 ---
 
@@ -107,6 +129,16 @@ Interactive dashboard with customizable widgets.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=didier-lobognon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didier-lobognon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=didier-lobognon&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </p>
 
