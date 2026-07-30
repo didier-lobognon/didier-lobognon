@@ -9,7 +9,7 @@ Full Stack Software Engineer | 3+ Years of Experience
 </h3>
 
 <p align="center">
-Building scalable, secure and modern web applications 🚀
+Building scalable, secure and modern web applications
 </p>
 
 <p align="center">
